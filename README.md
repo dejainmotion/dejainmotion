@@ -1,9 +1,6 @@
 ## Hi, I'm Deja! 👋
 
-<!--
-**dejainmotion/dejainmotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Cybersecurity Professional | Security+ Certified | GRC | Cloud Security | SOC Operations
+## Cybersecurity Professional | Security+ Certified | GRC | Cloud Security | SOC Operations
 
 I'm a cybersecurity graduate with a Bachelor's degree in Cybersecurity, CompTIA Security+ certification, and 2+ years of professional technical support experience at Dell Technologies.
 
@@ -103,7 +100,7 @@ Projects are developed in controlled lab environments and documented as I progre
 
 Bachelor's Degree in Cybersecurity
 
-[University Name]
+St. Philip's College
 
 📜 Certifications & Professional Development
 
@@ -133,6 +130,6 @@ Penetration Testing Fundamentals
 Python and PowerShell
 📫 Let's Connect!
 
-LinkedIn: [Your LinkedIn URL]
-GitHub: [Your GitHub URL]
+LinkedIn: (https://www.linkedin.com/in/deja-smith/)
+
 I'm always interested in connecting with cybersecurity professionals, learning about emerging security technologies, and collaborating on cybersecurity projects.
