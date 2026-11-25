@@ -1,132 +1,93 @@
-### Hi, I'm Deja! 👋
+## Hi, I'm Deja Smith 👋
 
-## Cybersecurity Professional | Security+ Certified | GRC | Cloud Security | SOC Operations
+**Cybersecurity | Security Operations | Cloud Security | GRC**
 
-I'm a cybersecurity graduate with a Bachelor's degree in Cybersecurity, CompTIA Security+ certification, and 2+ years of professional technical support experience at Dell Technologies.
+I'm an IT professional with a Bachelor's degree in Applied Technology specializing in Cybersecurity, a CompTIA Security+ certification, and professional experience spanning technical support, IT operations, troubleshooting, and account security operations.
 
-My background in technical support has helped me develop strong troubleshooting, problem-solving, customer service, and technical documentation skills. I'm now building on that foundation by expanding my knowledge and practical experience in cybersecurity.
+My background includes supporting enterprise technology environments, investigating technical issues, troubleshooting Windows and Linux systems, and assisting with identity verification and account access recovery.
 
-I'm particularly interested in Governance, Risk, and Compliance (GRC), Cloud Security, Security Operations (SOC), Penetration Testing, and Incident Response.
+I'm currently expanding my cybersecurity capabilities through hands-on security labs, technical projects, and continued professional development. My interests include security operations, threat detection, identity and access management (IAM), cloud security, and governance, risk, and compliance (GRC).
 
-🎯 Cybersecurity Areas of Interest
+My goal is to bridge technical security operations with cloud security and risk management to help organizations protect their systems, infrastructure, and information.
 
-Governance, Risk & Compliance (GRC)
+## 🛠️ Areas of Focus
 
-Cybersecurity Risk Management
-NIST Cybersecurity Framework (CSF)
-Security Controls and Assessments
-Compliance and Security Governance
-Risk Identification and Mitigation
-Security Policies and Procedures
-Cloud Security
+**Security Operations:** Security Monitoring · Log Analysis · Threat Detection · Incident Response · Vulnerability Management
 
-Microsoft Azure Fundamentals
-Cloud Security Concepts
-Identity and Access Management (IAM)
-Microsoft Entra ID
-Access Controls and Least Privilege
-Cloud Risk Management
-Security Operations (SOC)
+**Cloud Security:** Microsoft Azure · AWS · Cloud Infrastructure · Identity and Access Management · RBAC · Network Security
 
-Security Monitoring
-SIEM Fundamentals
-Log Analysis
-Threat Detection and Investigation
-Incident Response Fundamentals
-MITRE ATT&CK Framework
-Penetration Testing
+**GRC & Security Governance:** Risk Assessments · NIST Frameworks · Security Controls · Compliance · Access Governance · Least Privilege
 
-Network Security Fundamentals
-Vulnerability Assessment
-Linux and Kali Linux
-OWASP Top 10
-Web Application Security
-Penetration Testing Methodologies
+**IT & Infrastructure:** Windows · Linux · Active Directory · Windows Server · Networking · DNS · DHCP · Technical Troubleshooting
 
-🛠️ Technical Skills & Tools
+## 📜 Certifications
 
-Operating Systems: Windows, Linux Fundamentals
-IT & Technical Support
+- CompTIA Security+
 
-Technical Troubleshooting
-Hardware and Software Support
-System Diagnostics
-Technical Documentation
-Customer Support
-Cybersecurity
+*Currently preparing for CompTIA CySA+ (CS0-004).*
 
-Security Fundamentals
-Vulnerability Management Concepts
-Risk Management Fundamentals
-Incident Response Fundamentals
-Security Best Practices
-Frameworks & Standards
+## 💻 Technical Experience
 
-NIST Cybersecurity Framework (CSF)
-NIST Risk Management Framework (RMF)
-MITRE ATT&CK
-OWASP Top 10
-Tools & Technologies
+**IT Technical Support — Dell Technologies**
 
-Wireshark
-Kali Linux
-Microsoft Azure
-Microsoft Sentinel (Learning)
-Splunk (Learning)
-Python (Learning)
-PowerShell (Learning)
-🔬 Hands-On Cybersecurity Projects
+- Supported enterprise customers with hardware, software, operating system, server, and network-related issues.
+- Performed technical troubleshooting across Windows and Linux environments.
+- Investigated connectivity, system configuration, and infrastructure-related problems.
+- Documented technical issues, resolutions, and escalations.
 
-I'm building a practical cybersecurity portfolio through independent labs and projects focused on developing real-world security knowledge.
+**Customer Support & Account Security Operations — Accenture**
+
+- Supported account access and recovery processes through identity verification.
+- Reviewed account activity, case histories, and timelines to investigate access-related issues.
+- Assisted with password resets and compromised-account recovery workflows.
+- Escalated complex account security cases through established operational procedures.
+
+## 📂 Featured Projects
+
+**🔐 Security Operations & SOC Labs**
+
+Hands-on cybersecurity exercises focused on security monitoring, log analysis, threat detection, investigation, and incident response.
+
+**☁️ Cloud Security Projects**
+
+Practical projects exploring cloud infrastructure security, identity and access management, Azure, AWS, and security configurations.
+
+**🔑 IAM & Access Governance**
+
+Projects exploring identity security, access controls, role-based access control, least privilege, and access governance.
+
+**📋 GRC & Risk Management**
+
+Practical exercises involving security risk assessments, security controls, NIST frameworks, and compliance documentation.
+
+**🖥️ IT Infrastructure & Security Labs**
+
+Hands-on exercises involving Windows Server, Active Directory, networking, Linux, DNS, DHCP, and infrastructure security.
+
+## 📚 Continuous Learning
+
+- CompTIA CySA+ (CS0-004) preparation
+- TryHackMe cybersecurity training
+- Security operations and incident response
+- Microsoft Azure and cloud security
+- Governance, risk, and compliance
+
+## 🎯 Career Focus
+
+Building toward opportunities in Cybersecurity Analysis, Security Operations, Cloud Security, and Governance, Risk, and Compliance.
+
+I'm particularly interested in roles that combine technical security knowledge, identity protection, cloud infrastructure, and security risk management.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Deja Smith](https://www.linkedin.com/in/deja-smith/)
+- **TryHackMe:** [ParadoxKitty](https://tryhackme.com/p/ParadoxKitty)
+- **GitHub:** You're already here!
+
+---
+
+*Learning continuously. Building practically. Securing intentionally.*
 
 
-Project	Focus Area
-Cybersecurity Risk Register	GRC / Risk Management
-NIST CSF Assessment	Governance & Compliance
-Information Security Policy	GRC / Security Governance
-Azure Cloud Security Lab	Cloud Security
-IAM Access Management Lab	Identity Security
-SIEM Monitoring Lab	SOC Operations
-Incident Response Case Study	Security Operations
-OWASP Juice Shop Lab	Penetration Testing
-Vulnerability Assessment Report	Vulnerability Management
-Projects are developed in controlled lab environments and documented as I progress.
 
-🎓 Education
 
-Bachelor's Degree in Cybersecurity
-
-St. Philip's College
-
-📜 Certifications & Professional Development
-
-CompTIA Security+ — Certified
-CompTIA CySA+ — Currently Studying
-CompTIA PenTest+ — Planned
-
-💼 Professional Experience
-
-Dell Technologies | Technical Support
-
-2+ years of professional experience in technical support, developing skills in:
-
-Technical troubleshooting and problem resolution.
-Hardware and software support.
-Customer-focused technical assistance.
-System diagnostics.
-Technical documentation.
-IT support operations.
-📚 Currently Learning
-
-Governance, Risk, and Compliance (GRC)
-NIST Cybersecurity Framework
-Microsoft Azure Security
-Security Operations and SIEM
-Vulnerability Assessment
-Penetration Testing Fundamentals
-Python and PowerShell
-📫 Let's Connect!
-
-LinkedIn: (https://www.linkedin.com/in/deja-smith/)
-
-I'm always interested in connecting with cybersecurity professionals, learning about emerging security technologies, and collaborating on cybersecurity projects.
