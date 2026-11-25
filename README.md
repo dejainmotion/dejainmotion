@@ -39,7 +39,8 @@ My goal is to bridge technical security operations with cloud security and risk 
 
 ## 📂 Featured Projects
 
-Enterprise Network Infrastructure & Security
+**Enterprise Network Infrastructure & Security**
+
 Designed and implemented a simulated enterprise environment for a five-department retail organization.
 
 Project work included:
