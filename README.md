@@ -53,6 +53,8 @@ Project work included:
 -Organizational computer-use and AI security policy.
 -Hands-on exercises involving Windows Server, Active Directory, networking, Linux, DNS, DHCP, and infrastructure security.
 
+https://github.com/dejainmotion/cybersecurity-portfolio/tree/main/projects/departmental-network-systems-security-setup
+
 ## 🎯 Career Focus
 
 Interested in opportunities in Cybersecurity Analysis, Security Operations, Cloud Security, GRC and Incident Response.
