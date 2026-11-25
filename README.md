@@ -1,4 +1,4 @@
-## Hi, I'm Deja! 👋
+### Hi, I'm Deja! 👋
 
 ## Cybersecurity Professional | Security+ Certified | GRC | Cloud Security | SOC Operations
 
@@ -6,9 +6,7 @@ I'm a cybersecurity graduate with a Bachelor's degree in Cybersecurity, CompTIA 
 
 My background in technical support has helped me develop strong troubleshooting, problem-solving, customer service, and technical documentation skills. I'm now building on that foundation by expanding my knowledge and practical experience in cybersecurity.
 
-I'm particularly interested in Governance, Risk, and Compliance (GRC), Cloud Security, Security Operations (SOC), and Penetration Testing.
-
-Through hands-on labs, independent projects, and continued professional development, I'm working toward becoming a well-rounded cybersecurity professional who understands both the technical and business sides of information security.
+I'm particularly interested in Governance, Risk, and Compliance (GRC), Cloud Security, Security Operations (SOC), Penetration Testing, and Incident Response.
 
 🎯 Cybersecurity Areas of Interest
 
@@ -44,12 +42,10 @@ Linux and Kali Linux
 OWASP Top 10
 Web Application Security
 Penetration Testing Methodologies
+
 🛠️ Technical Skills & Tools
 
-Operating Systems
-
-Windows
-Linux Fundamentals
+Operating Systems: Windows, Linux Fundamentals
 IT & Technical Support
 
 Technical Troubleshooting
@@ -107,6 +103,7 @@ St. Philip's College
 CompTIA Security+ — Certified
 CompTIA CySA+ — Currently Studying
 CompTIA PenTest+ — Planned
+
 💼 Professional Experience
 
 Dell Technologies | Technical Support
