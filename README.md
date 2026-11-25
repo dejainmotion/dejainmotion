@@ -24,7 +24,9 @@ My goal is to bridge technical security operations with cloud security and risk 
 
 - CompTIA Security+
 
-*Currently preparing for CompTIA CySA+ (CS0-004).*
+-CompTIA CySA+ (CS0-004) in pursuit.
+
+-CompTIA PenTest+ in Pursuit.
 
 ## 💻 Technical Experience
 
@@ -35,59 +37,30 @@ My goal is to bridge technical security operations with cloud security and risk 
 - Investigated connectivity, system configuration, and infrastructure-related problems.
 - Documented technical issues, resolutions, and escalations.
 
-**Customer Support & Account Security Operations — Accenture**
-
-- Supported account access and recovery processes through identity verification.
-- Reviewed account activity, case histories, and timelines to investigate access-related issues.
-- Assisted with password resets and compromised-account recovery workflows.
-- Escalated complex account security cases through established operational procedures.
-
 ## 📂 Featured Projects
 
-**🔐 Security Operations & SOC Labs**
+Enterprise Network Infrastructure & Security
+Designed and implemented a simulated enterprise environment for a five-department retail organization.
 
-Hands-on cybersecurity exercises focused on security monitoring, log analysis, threat detection, investigation, and incident response.
-
-**☁️ Cloud Security Projects**
-
-Practical projects exploring cloud infrastructure security, identity and access management, Azure, AWS, and security configurations.
-
-**🔑 IAM & Access Governance**
-
-Projects exploring identity security, access controls, role-based access control, least privilege, and access governance.
-
-**📋 GRC & Risk Management**
-
-Practical exercises involving security risk assessments, security controls, NIST frameworks, and compliance documentation.
-
-**🖥️ IT Infrastructure & Security Labs**
-
-Hands-on exercises involving Windows Server, Active Directory, networking, Linux, DNS, DHCP, and infrastructure security.
-
-## 📚 Continuous Learning
-
-- CompTIA CySA+ (CS0-004) preparation
-- TryHackMe cybersecurity training
-- Security operations and incident response
-- Microsoft Azure and cloud security
-- Governance, risk, and compliance
+Project work included:
+-Cisco Packet Tracer network topology and VLAN configuration.
+-Router and switch configuration.
+-Departmental network segmentation and connectivity testing.
+-Windows Server 2022 and Windows 11 virtual machines.
+-Active Directory, DNS, DHCP, and Group Policy.
+-Shared folders and permissions.
+-Organizational computer-use and AI security policy.
+-Hands-on exercises involving Windows Server, Active Directory, networking, Linux, DNS, DHCP, and infrastructure security.
 
 ## 🎯 Career Focus
 
-Building toward opportunities in Cybersecurity Analysis, Security Operations, Cloud Security, and Governance, Risk, and Compliance.
-
-I'm particularly interested in roles that combine technical security knowledge, identity protection, cloud infrastructure, and security risk management.
+Interested in opportunities in Cybersecurity Analysis, Security Operations, Cloud Security, GRC and Incident Response.
 
 ## 📫 Connect With Me
 
 - **LinkedIn:** [Deja Smith](https://www.linkedin.com/in/deja-smith/)
 - **TryHackMe:** [ParadoxKitty](https://tryhackme.com/p/ParadoxKitty)
 - **GitHub:** You're already here!
-
----
-
-*Learning continuously. Building practically. Securing intentionally.*
-
 
 
 
