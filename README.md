@@ -24,9 +24,9 @@ My goal is to bridge technical security operations with cloud security and risk 
 
 - CompTIA Security+
 
--CompTIA CySA+ (CS0-004) in pursuit.
+- CompTIA CySA+ (CS0-004) in pursuit.
 
--CompTIA PenTest+ in Pursuit.
+- CompTIA PenTest+ in Pursuit.
 
 ## 💻 Technical Experience
 
